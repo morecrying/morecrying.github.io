@@ -8,7 +8,7 @@
   }],
 
 "free":[
-    {"id":0, "file":0, "city":"Geramny01","country":"Germany","image":"germany","ip":"18.196.49.9","active":"true","signal":"a"},
+    {"id":0, "file":0, "city":"Germany01","country":"Germany","image":"germany","ip":"18.196.49.9","active":"true","signal":"a"},
     {"id":2, "file":1, "city":"USA01","country":"United States","image":"unitedstates","ip":"54.215.247.140","active":"true","signal":"a"},
     {"id":3, "file":2, "city":"Japan01","country":"Japan","image":"japan","ip":"13.231.60.64","active":"true","signal":"a"},
     {"id":4, "file":3, "city":"Germany02","country":"Germany","image":"germany","ip":"13.48.149.119","active":"true","signal":"a"},
