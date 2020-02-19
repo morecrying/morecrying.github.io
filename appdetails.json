@@ -1,7 +1,7 @@
 {
   "ads":"true",
   "update":[{
-    "version":"2.8.2000",
+    "version":"2.8.3000",
     "title":"Hey!",
     "description":"New Uptdate is Available at Google Play Store",
     "size":"https://www.apmg-net.com/"
@@ -16,6 +16,9 @@
     {"id":6, "file":5, "city":"UK","country":"United Kingdom","image":"unitedkingdom","ip":"35.178.200.81","active":"true","signal":"a"},
     {"id":7, "file":6, "city":"Canada","country":"Canada","image":"canada","ip":"15.222.6.194","active":"true","signal":"a"},
     {"id":8, "file":7, "city":"Singapore","country":"Singapore","image":"singapore","ip":"52.221.196.188","active":"true","signal":"a"},
-    {"id":9, "file":8, "city":"Korea","country":"South Korea","image":"southkorea","ip":"15.164.224.6","active":"true","signal":"a"}
+    {"id":9, "file":8, "city":"Korea","country":"South Korea","image":"southkorea","ip":"15.164.224.6","active":"true","signal":"a"},
+    {"id":10, "file":9, "city":"India","country":"India","image":"india","ip":"13.127.197.87","active":"true","signal":"a"},
+    {"id":11, "file":10, "city":"Ireland","country":"Ireland","image":"ireland","ip":"34.247.167.4","active":"true","signal":"a"},
+    {"id":12, "file":11, "city":"Brazil","country":"Brazil","image":"brazil","ip":"18.231.28.53","active":"true","signal":"a"}  
    ]
 }
